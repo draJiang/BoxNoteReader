@@ -1,3 +1,6 @@
+![CleanShot2024-01-0115 00 16](https://github.com/draJiang/BoxNoteReader/assets/38482112/cbba18f2-6de3-4914-a764-e96f568893f1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
